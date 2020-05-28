@@ -56,6 +56,7 @@
 - [Brosquery](https://github.com/jandre/brosquery) - A module for osquery to load Bro logs into tables
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - A PowerShell Module for Hunt Teaming via Windows Event Logs
 - [Uncoder](https://uncoder.io) - An online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules
+- [Seatbelt](https://github.com/GhostPack/Seatbelt) - C# based Purple team tool
 - [Sigma](https://github.com/Neo23x0/sigma) - Generic Signature Format for SIEM Systems
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) - A suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows
 - [Dispatch](https://github.com/Netflix/dispatch) - An open-source crisis management orchestration framework
